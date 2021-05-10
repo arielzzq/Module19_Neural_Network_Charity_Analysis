@@ -19,6 +19,4 @@ The purpose of this analysis is to use neural network and deep learning to help 
 - I chose tanh over relu because the input value had many negative value.
 
 ## Summary
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
-
 The accuracy of the model was 72.14% before optimization, and was 72.47% afterwards. Random Forest could also solve this classification problem, it can solve the problem faster.
